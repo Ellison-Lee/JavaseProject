@@ -8,12 +8,17 @@ public class Student {
     private double math;
 
     //2.合理暴露，使用public 修饰符的setAge方法
-    public int setAge(int age){
+    public void setAge(int age){
         if (age>0 && age<=120){
-            return age;
+            this.age = age;
         }else{
             System.out.println("年龄输入非法");
         }
+    }
+
+    //3.合理暴露，使用public 修饰符的getAge方法
+    public int getAge(){
+        return age;
     }
     public void printAllScore(){
         System.out.println(name+"的总成绩是"+(chinese+math));
