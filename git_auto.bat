@@ -1,4 +1,5 @@
 @echo off
+chcp 65001 > nul
 echo 按回车键执行 git status
 pause > nul
 git status
