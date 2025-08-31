@@ -1,0 +1,19 @@
+@echo off
+echo 按回车键执行 git status
+pause > nul
+git status
+
+echo 按回车键执行 git add .
+pause > nul
+git add .
+
+echo 按回车键执行 git commit -m update
+pause > nul
+git commit -m "update"
+
+echo 按回车键执行 git push
+pause > nul
+git push
+
+echo 所有Git操作已完成！
+pause > nul
