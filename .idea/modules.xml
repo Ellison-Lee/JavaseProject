@@ -7,7 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/Day03-flow-control/Day03-flow-control.iml" filepath="$PROJECT_DIR$/Day03-flow-control/Day03-flow-control.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day04-array/Day04-array.iml" filepath="$PROJECT_DIR$/Day04-array/Day04-array.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day05-OOP/Day05-OOP.iml" filepath="$PROJECT_DIR$/Day05-OOP/Day05-OOP.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Day06-oop/Day06-oop.iml" filepath="$PROJECT_DIR$/Day06-oop/Day06-oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day06-OOP/Day06-OOP.iml" filepath="$PROJECT_DIR$/Day06-OOP/Day06-OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day07-OOP/Day07-OOP.iml" filepath="$PROJECT_DIR$/Day07-OOP/Day07-OOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaseProject.iml" filepath="$PROJECT_DIR$/JavaseProject.iml" />
     </modules>
   </component>
