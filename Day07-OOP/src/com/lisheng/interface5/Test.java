@@ -1,0 +1,11 @@
+package com.lisheng.interface5;
+
+public class Test {
+    public static void main(String[] args) {
+        //目标：理解接口的几点注意事项
+
+    }
+}
+
+//1.接口和接口可以多继承：一个接口可以同时继承多个接口
+//2.一个接口可以继承多个接口，如果多个接口存在方法签名冲突，则此时不支持多继承，也不支持多实现
